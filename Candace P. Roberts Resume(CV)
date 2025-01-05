@@ -1,147 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Candace P. Roberts - Strategic Data Leader">
-    <title>Candace P. Roberts | Strategic Data Leader</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 1rem 0;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        .section {
-            margin-bottom: 2rem;
-        }
-        .section h2 {
-            color: #444;
-            border-bottom: 2px solid #444;
-            padding-bottom: 0.5rem;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 0.5rem;
-        }
-        footer {
-            text-align: center;
-            margin: 2rem 0;
-            color: #777;
-        }
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+# Candace P. Roberts  
+**Strategic Data Leader | Transforming Insights into Impact**
 
-<header>
-    <h1>Candace P. Roberts</h1>
-    <p>Strategic Data Leader | Transforming Insights into Impact</p>
-</header>
+---
 
-<div class="container">
-    <div class="section">
-        <h2>About Me</h2>
-        <p>
-            Hi! I'm Candace P. Roberts, a results-driven Strategic Data Leader specializing in turning data into actionable insights. I excel at mentoring teams, driving operational efficiency, and delivering innovative solutions. Let's transform your data strategy together!
-        </p>
-    </div>
+## 👩‍💻 About Me
+Hi! I'm Candace P. Roberts, a results-driven Strategic Data Leader specializing in turning data into actionable insights. I excel at mentoring teams, driving operational efficiency, and delivering innovative solutions. Let's transform your data strategy together!
 
-    <div class="section">
-        <h2>Key Achievements</h2>
-        <ul>
-            <li>Recovered $4.6M in revenue through automated reconciliation workflows.</li>
-            <li>Scaled BI team by 4x, modernizing platforms like Snowflake.</li>
-            <li>Deployed predictive analytics, improving revenue forecasting by 15%.</li>
-            <li>Automated reporting processes, saving 340+ hours annually.</li>
-        </ul>
-    </div>
+---
 
-    <div class="section">
-        <h2>Experience</h2>
-        <h3>Director of Business Intelligence | Vanco Payment Solutions (2022 - Present)</h3>
-        <ul>
-            <li>Built Snowflake architecture for seamless reporting and data integration.</li>
-            <li>Mentored a BI team, fostering innovation and adaptability.</li>
-            <li>Aligned analytics strategies with organizational goals, delivering measurable outcomes.</li>
-        </ul>
-        <h3>BI Analyst/Data Engineer | Vanco Payment Solutions (2018 - 2022)</h3>
-        <ul>
-            <li>Led the migration to Snowflake, enhancing scalability and performance.</li>
-            <li>Automated critical workflows, saving over 300+ hours annually.</li>
-            <li>Optimized SQL processes to improve efficiency by 98%.</li>
-        </ul>
-    </div>
+## 💼 Key Achievements
+- **$4.6M Revenue Recovery**: Modernized cash reconciliation processes with automated workflows.
+- **BI Transformation**: Scaled BI team by 4x and migrated to modern platforms like **Snowflake**.
+- **Operational Efficiency**: Automated reporting processes, saving 340+ hours annually.
+- **Predictive Analytics**: Deployed models improving revenue forecasting accuracy by 15%.
 
-    <div class="section">
-        <h2>Education</h2>
-        <ul>
-            <li><strong>Post Graduate Certificate</strong>: Data Science & Business Analytics, University of Texas – Austin (2023)</li>
-            <li><strong>Master of Science</strong>: Computer Information Systems, University of Phoenix (2004)</li>
-            <li><strong>Bachelor of Science</strong>: Business Management, Shorter University (2000)</li>
-        </ul>
-    </div>
+---
 
-    <div class="section">
-        <h2>Certifications</h2>
-        <ul>
-            <li>Data Monetization Strategy (MIT, ongoing)</li>
-            <li>Machine Learning Crash Course (Google)</li>
-            <li>AI Fundamentals (DataCamp)</li>
-            <li>Product Management (General Assembly)</li>
-        </ul>
-    </div>
+## 💼 Professional Experience
+### Director of Business Intelligence | Vanco Payment Solutions (2022 - Present)
+- Built Snowflake architecture for seamless reporting and data integration.
+- Mentored a BI team, fostering innovation and adaptability.
+- Aligned analytics strategies with organizational goals, delivering measurable outcomes.
 
-    <div class="section">
-        <h2>Technical Skills</h2>
-        <ul>
-            <li>Applications: Snowflake, Looker, Tableau, AWS, MicroStrategy</li>
-            <li>Languages: SQL, Python, Shell Scripting</li>
-            <li>Operating Systems: Windows, Unix/Linux</li>
-        </ul>
-    </div>
+### BI Analyst/Data Engineer | Vanco Payment Solutions (2018 - 2022)
+- Led the migration to Snowflake, enhancing scalability and performance.
+- Automated critical workflows, saving over 300+ hours annually.
+- Optimized SQL processes to improve efficiency by 98%.
 
-    <div class="section">
-        <h2>Contact</h2>
-        <p>
-            📧 <a href="mailto:candaceproberts@gmail.com">candaceproberts@gmail.com</a><br>
-            🔗 <a href="https://www.linkedin.com/in/candaceproberts">LinkedIn Profile</a>
-        </p>
-    </div>
-</div>
+---
 
-<footer>
-    <p>&copy; 2025 Candace P. Roberts. All rights reserved.</p>
-</footer>
+## 🎓 Education
+- **Post Graduate Certificate**: Data Science & Business Analytics, University of Texas – Austin *(2023)*
+- **Master of Science**: Computer Information Systems, University of Phoenix *(2004)*
+- **Bachelor of Science**: Business Management (Leadership Minor), Shorter University *(2000)*
 
-</body>
-</html>
+---
+
+## 🎖 Certifications
+- Data Monetization Strategy *(MIT, ongoing)*
+- Machine Learning Crash Course *(Google)*
+- AI Fundamentals *(DataCamp)*
+- Product Management *(General Assembly)*
+
+---
+
+## 🛠 Technical Skills
+- **Applications**: Snowflake, Looker, Tableau, AWS, MicroStrategy
+- **Languages**: SQL, Python, Shell Scripting
+- **Operating Systems**: Windows, Unix/Linux
+
+---
+
+## 🌟 Career Goals
+- Transition to **Senior Director** or equivalent role within 1–2 years.
+- Advance to **VP** or higher in 3–4 years, focusing on **AI-driven organizational transformation**.
+- Continue leading initiatives that integrate **AI/ML**, **predictive analytics**, and **data monetization**.
+
+---
+
+## 📂 Featured Projects
+### 🚀 [Enterprise BI Modernization](#)
+Migrated from Power BI to Looker, enhancing scalability and accessibility for 130+ internal clients.
+
+### 📊 [Predictive Analytics Models](#)
+Developed and deployed models improving forecasting accuracy by 15%.
+
+### 📈 [Snowflake Architecture](#)
+Designed and implemented data pipelines supporting seamless reporting and integration.
+
+---
+
+## 📫 Contact
+- 📧 [candaceproberts@gmail.com](mailto:candaceproberts@gmail.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/candaceproberts)
+
+---
+
+**🚀 Thank you for visiting my profile! I look forward to collaborating with you.**
